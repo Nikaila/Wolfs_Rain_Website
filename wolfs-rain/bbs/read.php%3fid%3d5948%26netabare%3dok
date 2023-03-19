@@ -1,0 +1,102 @@
+<HTML>
+<HEAD>
+<TITLE>WOLF'S RAIN 公式掲示板</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; CHARSET=Shift_JIS">
+<LINK REL="STYLESHEET" HREF="bbs.css" TYPE="TEXT/CSS">
+<SCRIPT LANGUAGE="JavaScript" SRC="bbs.js"></SCRIPT>
+<STYLE TYPE="text/css">
+<!--
+A:hover    { color:#FF0000; }
+A.line:hover    { color:#FF0000; }
+-->
+</STYLE>
+</HEAD>
+<BODY BGCOLOR="#F4E8C6" BACKGROUND="../image/bg.gif" TEXT="#000000" LINK="#990000" VLINK="#993333" ALINK="#FF0000" LEFTMARGIN="0" TOPMARGIN="0">
+<TABLE WIDTH="800" BORDER="0" CELLSPACING="0" CELLPADDING="0" HEIGHT="100%">
+<TR>
+<TD BGCOLOR="#FFFFFF" VALIGN="TOP" ALIGN="CENTER"><BR>
+<IMG SRC="../image/bbs.gif" WIDTH="500" HEIGHT="35"><BR><BR>
+<TABLE BORDER="1" CELLPADDING="10" CELLSPACING="0" WIDTH="700">
+<TR><TD BGCOLOR="#FFFFFF">
+<TABLE BORDER="0" WIDTH="680" CELLPADDING="0" CELLSPACING="5">
+
+<TR><TD COLSPAN="2"><FONT COLOR="#5A4C26"><BIG>WOLFもRAINもマイケル・ジャクソンの影響受けまくりですか？</BIG></FONT></TD></TR>
+<TR><TD COLSPAN="2">1. 名前：<B>ジョゼフ＆レム</B>　　03/05/02 01:50 [記事No：5948]</TD></TR>
+<TR><TD WIDTH="60" VALIGN="TOP"><IMG SRC="icon/none.gif"></TD><TD WIDTH="620" VALIGN="TOP">WR、断然イケてると思います｡ただ関係者各位に質問なんですが（ってこんなとこ読んでないですかね）、OPの雨や鴉の群れの映像、また絶滅したはずの（人）狼＝現代の徴づけられた者という”融印”を見てマイケル・ジャクソンを連想する人は無数にいるんじゃないでしょうか。勿論鴉はゴッホの『鴉のいる麦畑』からクロサワを経てマイケルのストレンジャー・イン・モスコーですよ、E・A・ポーの詩はどうか知りませんが｡でも雨の映像におけるマイケル・ジャクソンのパクリ（と呼ばせてもらう、WRだけじゃない！）は、流行りという言葉で済ませていいくらいのインフレぶりだと思います｡ここ５、６年そうですよ？　マイケル・ジャクソンという世界でも２０指に入る富豪であり天才である人物が、白人中心主義のメディアからどういう扱いを受けているかなんて信本敬子さん他ならとっくにご存知のはずで、だからこそWRで被差別という問題をも扱う以上、「わかる人にはわかる」で終わらせて欲しくないという押し付けがましさを承知で、マイケルのことを訊ねたいんです｡彼が狼男を演じた『スリラー』なくしてこのアニメ自体あり得たか？　そりゃ他のアニメからの引用とか私が知らないことだらけでしょうけれども｡<br />
+<br />
+そりゃ私はマイケルのファンです｡まあOPにdedicated to Michael Jacksonなんて出てきたら却って色が付いちゃいますけどね｡初めてこんな意見を聞いたという方々はMJのビデオやDVDをご覧になってください｡<br />
+<br />
+WRのこれから期待しています！　深夜なので毎回見られないですが、ほぼ全回に感心しています｡”狼がいたんだ・・・嘲笑うように”なんて場面、フォークナーばりでした！<br />
+<br />
+では。<BR><BR><BR></TD></TR>
+<TR><TD COLSPAN="2">
+<BR><HR>
+<FORM ACTION="write.php" ENCTYPE="multipart/form-data" METHOD="post">
+名前 <INPUT TYPE="TEXT" SIZE="30" NAME="name" VALUE="">　email <INPUT TYPE="TEXT" SIZE="30" NAME="email" VALUE=""><BR>
+<TEXTAREA NAME="words" COLS="60" ROWS="7" NOWRAP></TEXTAREA><BR>
+アイコン<A HREF="JavaScript:miniWin()">（一覧）</A>
+<SELECT NAME="icon">
+<OPTION VALUE="none" SELECTED>なし
+<OPTION VALUE="kiba1">キバ１
+<OPTION VALUE="kiba2">キバ２
+<OPTION VALUE="kiba3">キバ３
+<OPTION VALUE="tume1">ツメ１
+<OPTION VALUE="tume2">ツメ２
+<OPTION VALUE="tume3">ツメ３
+<OPTION VALUE="hige1">ヒゲ１
+<OPTION VALUE="hige2">ヒゲ２
+<OPTION VALUE="hige3">ヒゲ３
+<OPTION VALUE="boe1">トオボエ１
+<OPTION VALUE="boe2">トオボエ２
+<OPTION VALUE="boe3">トオボエ３
+<OPTION VALUE="blue1">ブルー１
+<OPTION VALUE="blue2">ブルー２
+<OPTION VALUE="kiba4">キバ(狼)
+<OPTION VALUE="tume4">ツメ(狼)
+<OPTION VALUE="hige4">ヒゲ(狼)
+<OPTION VALUE="boe4">トオボエ(狼)
+<OPTION VALUE="blue3">ブルー(狼)
+<OPTION VALUE="cheza1">チェザ１
+<OPTION VALUE="cheza2">チェザ２
+<OPTION VALUE="dar1">ダルシア１
+<OPTION VALUE="dar2">ダルシア２
+<OPTION VALUE="cher1">シェール１
+<OPTION VALUE="cher2">シェール２
+<OPTION VALUE="hubb1">ハブ１
+<OPTION VALUE="hubb2">ハブ２
+<OPTION VALUE="quento1">クエント１
+<OPTION VALUE="quento1">クエント２
+</SELECT>
+　削除用パスワード <INPUT TYPE="PASSWORD" SIZE="10" NAME="password" VALUE=""><BR>
+<INPUT TYPE="CHECKBOX" NAME="neta" VALUE="bare">ネタバレを含む内容
+<INPUT TYPE="HIDDEN" NAME="oyako" VALUE="5948">
+<INPUT TYPE="HIDDEN" NAME="insert" VALUE="ko">
+<INPUT TYPE="HIDDEN" NAME="netabare" VALUE="ok">
+<INPUT TYPE="SUBMIT" VALUE="書き込む">
+</FORM>
+</TD></TR>
+</TABLE>
+</TD></TR></TABLE><BR>
+<BR>
+<FORM ACTION="delete.php" ENCTYPE="multipart/form-data" METHOD="post">
+<TABLE BORDER="0" CELLPADDING="10" CELLSPACING="0">
+<TR><TD BGCOLOR="#AA9764">
+<TABLE BORDER="1" CELLPADDING="5" CELLSPACING="0">
+<TR><TD BGCOLOR="#F4E8C6">
+記事Ｎｏ． <INPUT TYPE="TEXT" NAME="id" SIZE="5">　
+パスワード <INPUT TYPE="PASSWORD" NAME="password" SIZE="10" VALUE="">　
+<INPUT TYPE="HIDDEN" NAME="netabare" VALUE="ok">
+<INPUT TYPE="SUBMIT" VALUE="削除">
+</TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+</FORM>
+<BR>
+<A HREF="bbs.php?netabare=ok"><BIG>【メインページに戻る】</BIG></A>
+<BR><BR>
+</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>

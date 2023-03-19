@@ -1,0 +1,95 @@
+<HTML>
+<HEAD>
+<TITLE>WOLF'S RAIN 公式掲示板</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; CHARSET=Shift_JIS">
+<LINK REL="STYLESHEET" HREF="bbs.css" TYPE="TEXT/CSS">
+<STYLE TYPE="text/css">
+<!--
+A:hover    { color:#FF0000; }
+A.line:hover    { color:#FF0000; }
+-->
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+function JumpMenu(Formname){
+
+	location=(document.hyouji.kennsuu.options[document.hyouji.kennsuu.selectedIndex].value);
+
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+<BODY BGCOLOR="#F4E8C6" BACKGROUND="../image/bg.gif" TEXT="#000000" LINK="#990000" VLINK="#993333" ALINK="#FF0000" LEFTMARGIN="0" TOPMARGIN="0">
+<TABLE WIDTH="800" BORDER="0" CELLSPACING="0" CELLPADDING="0" HEIGHT="100%">
+<TR>
+<TD BGCOLOR="#FFFFFF" VALIGN="TOP" ALIGN="CENTER"><BR>
+<IMG SRC="../image/bbs.gif" WIDTH="500" HEIGHT="35"><BR><BR>
+
+<TABLE BORDER="0" CELLPADDING="5" CELLSPACING="0">
+<TR>
+<TD>
+<FORM ACTION="thread.php" METHOD="GET">
+<INPUT TYPE="HIDDEN" NAME="netabare" VALUE="ok">
+<INPUT TYPE="HIDDEN" NAME="sort" VALUE="update">
+<INPUT TYPE="HIDDEN" NAME="limit" VALUE="10">
+<INPUT TYPE="SUBMIT" VALUE="最新書き込み順">
+</FORM>
+</TD>
+<TD>
+<FORM ACTION="thread.php" METHOD="GET">
+<INPUT TYPE="HIDDEN" NAME="netabare" VALUE="ok">
+<INPUT TYPE="HIDDEN" NAME="sort" VALUE="res">
+<INPUT TYPE="HIDDEN" NAME="limit" VALUE="10">
+<INPUT TYPE="SUBMIT" VALUE="レス数の多い順">
+</FORM>
+</TD>
+<TD>
+<FORM ACTION="thread.php" METHOD="GET">
+<INPUT TYPE="HIDDEN" NAME="netabare" VALUE="ok">
+<INPUT TYPE="HIDDEN" NAME="sort" VALUE="time">
+<INPUT TYPE="HIDDEN" NAME="limit" VALUE="10">
+<INPUT TYPE="SUBMIT" VALUE="スレッド作成日時順">
+</FORM>
+</TD>
+<TD>
+<FORM NAME="hyouji">
+<SELECT NAME="kennsuu" onChange="JumpMenu('hyouji')">
+<OPTION VALUE="thread.php?netabare=ok&sort=update&limit=10" SELECTED>10件ずつ表示
+<OPTION VALUE="thread.php?netabare=ok&sort=update&limit=50">50件ずつ表示
+<OPTION VALUE="thread.php?netabare=ok&sort=update&limit=100">100件ずつ表示
+</SELECT>
+</FORM>
+</TD>
+</TR>
+</TABLE>
+<TABLE BORDER="0" CELLPADDING="10" CELLSPACING="0">
+<TR>
+<TD BGCOLOR="#AA9764">
+<TABLE BORDER="1" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD BGCOLOR="#F4E8C6">
+<TABLE BORDER="0" CELLPADDING="5" CELLSPACING="0">
+<TR><TD>　</TD><TD ALIGN="CENTER"><SMALL><B>最新書き込み</B></SMALL></TD><TD ALIGN="CENTER"><SMALL>レス数</SMALL></TD><TD ALIGN="CENTER" WIDTH="400"><SMALL>タイトル（スレッド作成日時）</SMALL></TD></TR><TR BGCOLOR="#FFFFFF"><TH BGCOLOR="#CCCCCC"><small>21</small></TH><TD STYLE="padding-left:10px">08/14 13:43</TD><TD ALIGN="CENTER">6</TD><TD NOWRAP><A HREF="read.php?id=13624&netabare=ok">常識的に有り得ない <SMALL>(03/08/11 20:45) <FONT COLOR="#FF0000">*ネタバレ*</FONT></SMALL></A></TD></TR>
+<TR BGCOLOR="#EEEEEE"><TH BGCOLOR="#BBBBBB"><small>22</small></TH><TD STYLE="padding-left:10px">08/14 08:33</TD><TD ALIGN="CENTER">43</TD><TD NOWRAP><A HREF="read.php?id=13225&netabare=ok">北海道は遅れ気味！Ｖersion２ <SMALL>(03/08/06 08:34) </SMALL></A></TD></TR>
+<TR BGCOLOR="#FFFFFF"><TH BGCOLOR="#CCCCCC"><small>23</small></TH><TD STYLE="padding-left:10px">08/14 04:28</TD><TD ALIGN="CENTER">22</TD><TD NOWRAP><A HREF="read.php?id=13374&netabare=ok" TITLE="「ナウシカ」と「ウルフズ・レイン」を比較検討してみましょう！">「ナウシカ」と「ウルフズ・レイン」を比較検討して… <SMALL>(03/08/08 14:51) </SMALL></A></TD></TR>
+<TR BGCOLOR="#EEEEEE"><TH BGCOLOR="#BBBBBB"><small>24</small></TH><TD STYLE="padding-left:10px">08/13 19:27</TD><TD ALIGN="CENTER">49</TD><TD NOWRAP><A HREF="read.php?id=10690&netabare=ok">キバを最後まで応援しよう！！Ｎｏ．３ <SMALL>(03/07/09 19:47) </SMALL></A></TD></TR>
+<TR BGCOLOR="#FFFFFF"><TH BGCOLOR="#CCCCCC"><small>25</small></TH><TD STYLE="padding-left:10px">08/13 16:12</TD><TD ALIGN="CENTER">4</TD><TD NOWRAP><A HREF="read.php?id=13796&netabare=ok">答えをだしたアニメとは？　 <SMALL>(03/08/13 15:09) </SMALL></A></TD></TR>
+<TR BGCOLOR="#EEEEEE"><TH BGCOLOR="#BBBBBB"><small>26</small></TH><TD STYLE="padding-left:10px">08/13 11:32</TD><TD ALIGN="CENTER">110</TD><TD NOWRAP><A HREF="read.php?id=9894&netabare=ok">ツメ大好き！！２★ <SMALL>(03/06/30 14:13) </SMALL></A></TD></TR>
+<TR BGCOLOR="#FFFFFF"><TH BGCOLOR="#CCCCCC"><small>27</small></TH><TD STYLE="padding-left:10px">08/13 04:36</TD><TD ALIGN="CENTER">132</TD><TD NOWRAP><A HREF="read.php?id=10731&netabare=ok">関西だから遅いのです・・・。 <SMALL>(03/07/09 23:35) </SMALL></A></TD></TR>
+<TR BGCOLOR="#EEEEEE"><TH BGCOLOR="#BBBBBB"><small>28</small></TH><TD STYLE="padding-left:10px">08/13 01:32</TD><TD ALIGN="CENTER">42</TD><TD NOWRAP><A HREF="read.php?id=7108&netabare=ok">「ブルー姉貴に惚れやした」な人集まれ！ <SMALL>(03/05/19 22:11) </SMALL></A></TD></TR>
+<TR BGCOLOR="#FFFFFF"><TH BGCOLOR="#CCCCCC"><small>29</small></TH><TD STYLE="padding-left:10px">08/13 01:28</TD><TD ALIGN="CENTER">2</TD><TD NOWRAP><A HREF="read.php?id=13745&netabare=ok">月の花のおひたし <SMALL>(03/08/13 00:38) </SMALL></A></TD></TR>
+<TR BGCOLOR="#EEEEEE"><TH BGCOLOR="#BBBBBB"><small>30</small></TH><TD STYLE="padding-left:10px">08/12 22:53</TD><TD ALIGN="CENTER">23</TD><TD NOWRAP><A HREF="read.php?id=11104&netabare=ok">狼雨でトリ○アの泉！ <SMALL>(03/07/14 09:53) <FONT COLOR="#FF0000">*ネタバレ*</FONT></SMALL></A></TD></TR>
+<TR><TD COLSPAN="2"><A HREF="thread.php?netabare=ok&sort=update&limit=10&offset=10"><B>&lt;&lt; 前<B>10</B>件</B></A>
+</TD><TD>　</TD><TD ALIGN="RIGHT"><A HREF="thread.php?netabare=ok&sort=update&limit=10&offset=30"><B>次<B>10</B>件 &gt;&gt;</B></A>
+</TD></TR>
+</TABLE></TD></TR></TABLE></TD></TR></TABLE>
+<BR><BR>
+<A HREF="bbs.php?netabare=ok"><BIG>【メインページに戻る】</BIG></A>
+<BR><BR>
+</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>

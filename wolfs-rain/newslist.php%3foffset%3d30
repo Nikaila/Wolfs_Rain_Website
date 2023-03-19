@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>WOLF'S RAIN</title>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<link rel=stylesheet href="wr.css" type="text/css">
+<style type="text/css">
+<!--
+a:hover   { color:#FF0000; }
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" link="#000000" vlink="#333333" alink="#FF0000">
+<table border="0" cellpadding="0" cellspacing="0" width="180" height="100%">
+<tr><td align="center" valign="top" background="image/left.jpg">
+<img src="image/news_tit.gif" width="80" height="40"><br>
+
+<table border="0" cellpadding="0" cellspacing="0" width="150">
+<tr><td width="50">
+<a href="news.php?offset=20" target="main"><img src="image/nback.gif" width="50" height="25" border="0"></a>
+</td><td width="50"><img src="image/0.gif" width="50" height="25"></td><td width="50">
+<a href="news.php?offset=40" target="main"><img src="image/nnext.gif" width="50" height="25" border="0"></a>
+</td></tr></table><table border="0" cellpadding="1" cellspacing="0">
+	<tr><td bgcolor="#5A4C26">
+	<table border="0" cellpadding="3" cellspacing="0" width="160">
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>01月27日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=30#13" target="right">キャラクターグッズ</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>01月23日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=30#12" target="right">各放送局の放送スケジュール</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>01月21日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=30#11" target="right">100万ヒット突破記念ポスタープレゼント実施</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>01月20日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=30#3" target="right">TVA「WOLF'S RAIN」エンディングテーマ</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>01月11日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=30#8" target="right">大阪・名古屋・福岡・札幌でも番宣ポスター掲出！</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>01月09日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=30#7" target="right">放送時間変更のお知らせ</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>01月06日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=30#6" target="right">監督メッセージを掲載</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>01月04日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=30#5" target="right">第1話アフレココメントを掲載</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>12月30日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=30#4" target="right">リンク用バナー</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>12月29日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=30#2" target="right">番組宣伝スポットを掲載</a></td></tr>
+</table></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0" width="150">
+<tr><td width="50">
+<a href="news.php?offset=20" target="main"><img src="image/nback.gif" width="50" height="25" border="0"></a>
+</td><td width="50"><img src="image/0.gif" width="50" height="25"></td><td width="50">
+<a href="news.php?offset=40" target="main"><img src="image/nnext.gif" width="50" height="25" border="0"></a>
+</td></tr></table>
+</td></tr>
+</table>
+</body>
+</html>

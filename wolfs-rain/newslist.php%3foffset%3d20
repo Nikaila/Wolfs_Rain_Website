@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>WOLF'S RAIN</title>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<link rel=stylesheet href="wr.css" type="text/css">
+<style type="text/css">
+<!--
+a:hover   { color:#FF0000; }
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" link="#000000" vlink="#333333" alink="#FF0000">
+<table border="0" cellpadding="0" cellspacing="0" width="180" height="100%">
+<tr><td align="center" valign="top" background="image/left.jpg">
+<img src="image/news_tit.gif" width="80" height="40"><br>
+
+<table border="0" cellpadding="0" cellspacing="0" width="150">
+<tr><td width="50">
+<a href="news.php?offset=10" target="main"><img src="image/nback.gif" width="50" height="25" border="0"></a>
+</td><td width="50"><img src="image/0.gif" width="50" height="25"></td><td width="50">
+<a href="news.php?offset=30" target="main"><img src="image/nnext.gif" width="50" height="25" border="0"></a>
+</td></tr></table><table border="0" cellpadding="1" cellspacing="0">
+	<tr><td bgcolor="#5A4C26">
+	<table border="0" cellpadding="3" cellspacing="0" width="160">
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>04月11日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=20#24" target="right">放送時間変更のお知らせ</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>04月11日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=20#23" target="right">DVD発売記念　店頭上映のおしらせ</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>04月10日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=20#22" target="right">携帯サイトオープン</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>03月26日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=20#21" target="right">北海道文化放送で第8話再放送</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>03月04日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=20#19" target="right">携帯待受画像３月に登場！</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>03月01日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=20#18" target="right">「WOLF'S RAIN」DVD発売決定！</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>02月28日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=20#17" target="right">キバのぬいぐるみ</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>02月26日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=20#16" target="right">オリジナルサウンドトラック</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>02月11日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=20#15" target="right">坂本真綾さんからのコメント</a></td></tr>
+<tr><td bgcolor="#AA9764"><font color="#FFFFFF"><b>01月29日</b></font></td></tr>
+		<tr><td bgcolor="#F4E8C6"><a href="newscont.php?offset=20#14" target="right">漫画連載開始</a></td></tr>
+</table></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0" width="150">
+<tr><td width="50">
+<a href="news.php?offset=10" target="main"><img src="image/nback.gif" width="50" height="25" border="0"></a>
+</td><td width="50"><img src="image/0.gif" width="50" height="25"></td><td width="50">
+<a href="news.php?offset=30" target="main"><img src="image/nnext.gif" width="50" height="25" border="0"></a>
+</td></tr></table>
+</td></tr>
+</table>
+</body>
+</html>

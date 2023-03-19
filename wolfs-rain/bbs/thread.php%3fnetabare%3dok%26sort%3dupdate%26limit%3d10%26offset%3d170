@@ -1,0 +1,95 @@
+<HTML>
+<HEAD>
+<TITLE>WOLF'S RAIN 公式掲示板</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; CHARSET=Shift_JIS">
+<LINK REL="STYLESHEET" HREF="bbs.css" TYPE="TEXT/CSS">
+<STYLE TYPE="text/css">
+<!--
+A:hover    { color:#FF0000; }
+A.line:hover    { color:#FF0000; }
+-->
+</STYLE>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+function JumpMenu(Formname){
+
+	location=(document.hyouji.kennsuu.options[document.hyouji.kennsuu.selectedIndex].value);
+
+}
+
+//-->
+</SCRIPT>
+</HEAD>
+<BODY BGCOLOR="#F4E8C6" BACKGROUND="../image/bg.gif" TEXT="#000000" LINK="#990000" VLINK="#993333" ALINK="#FF0000" LEFTMARGIN="0" TOPMARGIN="0">
+<TABLE WIDTH="800" BORDER="0" CELLSPACING="0" CELLPADDING="0" HEIGHT="100%">
+<TR>
+<TD BGCOLOR="#FFFFFF" VALIGN="TOP" ALIGN="CENTER"><BR>
+<IMG SRC="../image/bbs.gif" WIDTH="500" HEIGHT="35"><BR><BR>
+
+<TABLE BORDER="0" CELLPADDING="5" CELLSPACING="0">
+<TR>
+<TD>
+<FORM ACTION="thread.php" METHOD="GET">
+<INPUT TYPE="HIDDEN" NAME="netabare" VALUE="ok">
+<INPUT TYPE="HIDDEN" NAME="sort" VALUE="update">
+<INPUT TYPE="HIDDEN" NAME="limit" VALUE="10">
+<INPUT TYPE="SUBMIT" VALUE="最新書き込み順">
+</FORM>
+</TD>
+<TD>
+<FORM ACTION="thread.php" METHOD="GET">
+<INPUT TYPE="HIDDEN" NAME="netabare" VALUE="ok">
+<INPUT TYPE="HIDDEN" NAME="sort" VALUE="res">
+<INPUT TYPE="HIDDEN" NAME="limit" VALUE="10">
+<INPUT TYPE="SUBMIT" VALUE="レス数の多い順">
+</FORM>
+</TD>
+<TD>
+<FORM ACTION="thread.php" METHOD="GET">
+<INPUT TYPE="HIDDEN" NAME="netabare" VALUE="ok">
+<INPUT TYPE="HIDDEN" NAME="sort" VALUE="time">
+<INPUT TYPE="HIDDEN" NAME="limit" VALUE="10">
+<INPUT TYPE="SUBMIT" VALUE="スレッド作成日時順">
+</FORM>
+</TD>
+<TD>
+<FORM NAME="hyouji">
+<SELECT NAME="kennsuu" onChange="JumpMenu('hyouji')">
+<OPTION VALUE="thread.php?netabare=ok&sort=update&limit=10" SELECTED>10件ずつ表示
+<OPTION VALUE="thread.php?netabare=ok&sort=update&limit=50">50件ずつ表示
+<OPTION VALUE="thread.php?netabare=ok&sort=update&limit=100">100件ずつ表示
+</SELECT>
+</FORM>
+</TD>
+</TR>
+</TABLE>
+<TABLE BORDER="0" CELLPADDING="10" CELLSPACING="0">
+<TR>
+<TD BGCOLOR="#AA9764">
+<TABLE BORDER="1" CELLPADDING="0" CELLSPACING="0">
+<TR>
+<TD BGCOLOR="#F4E8C6">
+<TABLE BORDER="0" CELLPADDING="5" CELLSPACING="0">
+<TR><TD>　</TD><TD ALIGN="CENTER"><SMALL><B>最新書き込み</B></SMALL></TD><TD ALIGN="CENTER"><SMALL>レス数</SMALL></TD><TD ALIGN="CENTER" WIDTH="400"><SMALL>タイトル（スレッド作成日時）</SMALL></TD></TR><TR BGCOLOR="#FFFFFF"><TH BGCOLOR="#CCCCCC"><small>171</small></TH><TD STYLE="padding-left:10px">06/19 19:38</TD><TD ALIGN="CENTER">55</TD><TD NOWRAP><A HREF="read.php?id=8109&netabare=ok">何故何話も総集編？？？怒怒怒 <SMALL>(03/06/04 03:13) </SMALL></A></TD></TR>
+<TR BGCOLOR="#EEEEEE"><TH BGCOLOR="#BBBBBB"><small>172</small></TH><TD STYLE="padding-left:10px">06/19 03:19</TD><TD ALIGN="CENTER">18</TD><TD NOWRAP><A HREF="read.php?id=8581&netabare=ok">♯１９話「オアシスの夢」 <SMALL>(03/06/10 11:28) <FONT COLOR="#FF0000">*ネタバレ*</FONT></SMALL></A></TD></TR>
+<TR BGCOLOR="#FFFFFF"><TH BGCOLOR="#CCCCCC"><small>173</small></TH><TD STYLE="padding-left:10px">06/19 03:16</TD><TD ALIGN="CENTER">5</TD><TD NOWRAP><A HREF="read.php?id=9020&netabare=ok">なぜ楽園をめざすのか？ <SMALL>(03/06/18 04:10) </SMALL></A></TD></TR>
+<TR BGCOLOR="#EEEEEE"><TH BGCOLOR="#BBBBBB"><small>174</small></TH><TD STYLE="padding-left:10px">06/15 07:54</TD><TD ALIGN="CENTER">5</TD><TD NOWRAP><A HREF="read.php?id=8810&netabare=ok">人・狼・月の書について・・・ <SMALL>(03/06/14 12:58) <FONT COLOR="#FF0000">*ネタバレ*</FONT></SMALL></A></TD></TR>
+<TR BGCOLOR="#FFFFFF"><TH BGCOLOR="#CCCCCC"><small>175</small></TH><TD STYLE="padding-left:10px">06/14 17:29</TD><TD ALIGN="CENTER">3</TD><TD NOWRAP><A HREF="read.php?id=8700&netabare=ok">お初 <SMALL>(03/06/12 00:31) <FONT COLOR="#FF0000">*ネタバレ*</FONT></SMALL></A></TD></TR>
+<TR BGCOLOR="#EEEEEE"><TH BGCOLOR="#BBBBBB"><small>176</small></TH><TD STYLE="padding-left:10px">06/12 09:28</TD><TD ALIGN="CENTER">4</TD><TD NOWRAP><A HREF="read.php?id=8701&netabare=ok">ウルフズレインはどれだけの話ですか？ <SMALL>(03/06/12 00:51) </SMALL></A></TD></TR>
+<TR BGCOLOR="#FFFFFF"><TH BGCOLOR="#CCCCCC"><small>177</small></TH><TD STYLE="padding-left:10px">06/11 06:31</TD><TD ALIGN="CENTER">9</TD><TD NOWRAP><A HREF="read.php?id=328&netabare=ok">次回予告？？ <SMALL>(03/01/14 20:23) </SMALL></A></TD></TR>
+<TR BGCOLOR="#EEEEEE"><TH BGCOLOR="#BBBBBB"><small>178</small></TH><TD STYLE="padding-left:10px">06/10 03:02</TD><TD ALIGN="CENTER">14</TD><TD NOWRAP><A HREF="read.php?id=8218&netabare=ok">狼雨＠自治集会所 <SMALL>(03/06/05 11:42) </SMALL></A></TD></TR>
+<TR BGCOLOR="#FFFFFF"><TH BGCOLOR="#CCCCCC"><small>179</small></TH><TD STYLE="padding-left:10px">06/09 16:46</TD><TD ALIGN="CENTER">2</TD><TD NOWRAP><A HREF="read.php?id=8518&netabare=ok">アイコン良い！！ <SMALL>(03/06/09 16:40) </SMALL></A></TD></TR>
+<TR BGCOLOR="#EEEEEE"><TH BGCOLOR="#BBBBBB"><small>180</small></TH><TD STYLE="padding-left:10px">06/09 09:55</TD><TD ALIGN="CENTER">7</TD><TD NOWRAP><A HREF="read.php?id=8442&netabare=ok">How to order things off the site? <SMALL>(03/06/08 15:29) </SMALL></A></TD></TR>
+<TR><TD COLSPAN="2"><A HREF="thread.php?netabare=ok&sort=update&limit=10&offset=160"><B>&lt;&lt; 前<B>10</B>件</B></A>
+</TD><TD>　</TD><TD ALIGN="RIGHT"><A HREF="thread.php?netabare=ok&sort=update&limit=10&offset=180"><B>次<B>10</B>件 &gt;&gt;</B></A>
+</TD></TR>
+</TABLE></TD></TR></TABLE></TD></TR></TABLE>
+<BR><BR>
+<A HREF="bbs.php?netabare=ok"><BIG>【メインページに戻る】</BIG></A>
+<BR><BR>
+</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
